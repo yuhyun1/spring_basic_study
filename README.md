@@ -5,7 +5,7 @@
 
 | [<img src="https://avatars.githubusercontent.com/yuhyun1" width="100">](https://github.com/yuhyun1) | [<img src="https://avatars.githubusercontent.com/wellbeing-dough" width="100">](https://github.com/wellbeing-dough) |
 
-|                                                유현                                                 |                                                 김동우                                                               |                                  
+|                                                     유현                                                      |                                                 김동우                                                               |                                  
 
 <br />
 
