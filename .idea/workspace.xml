@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="896d6728-1598-4357-b150-f7beecc5d449" name="Changes" comment="초기 세팅" />
+    <list default="true" id="896d6728-1598-4357-b150-f7beecc5d449" name="Changes" comment="3.스프링 핵심 원리 이해2 - 객체 지향 원리 적용">
+      <change afterPath="$PROJECT_DIR$/src/hyun/4.스프링 컨테이너와 스프링 빈.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,26 +20,24 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Q6htqJb1YvInEoxAjAnRP2JeUw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,21 +46,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684680163464</updated>
-      <workItem from="1684681420320" duration="2195000" />
+      <workItem from="1686544385507" duration="2048000" />
     </task>
-    <task id="LOCAL-00001" summary="test commit">
-      <created>1684681491227</created>
+    <task id="LOCAL-00001" summary="3.스프링 핵심 원리 이해2 - 객체 지향 원리 적용">
+      <created>1686235210575</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1684681491227</updated>
+      <updated>1686235210575</updated>
     </task>
-    <task id="LOCAL-00002" summary="초기 세팅">
-      <created>1684683499211</created>
+    <task id="LOCAL-00002" summary="3.스프링 핵심 원리 이해2 - 객체 지향 원리 적용">
+      <created>1686235230713</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1684683499211</updated>
+      <updated>1686235230713</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -72,15 +73,31 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test commit" />
-    <MESSAGE value="초기 세팅" />
-    <option name="LAST_COMMIT_MESSAGE" value="초기 세팅" />
+    <MESSAGE value="3.스프링 핵심 원리 이해2 - 객체 지향 원리 적용" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.스프링 핵심 원리 이해2 - 객체 지향 원리 적용" />
   </component>
 </project>
